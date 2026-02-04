@@ -1,5 +1,6 @@
 # Temporal Analysis of Urban Areas — Part 3
 ## Decision Intelligence Dashboard (Power BI)
+This part focuses on converting technical change analysis results into structured, decision-ready visual insights.
 
 ## Goal
 Transform raw analytical outputs into clear, decision-oriented insights that support prioritization, risk assessment, and action planning.
